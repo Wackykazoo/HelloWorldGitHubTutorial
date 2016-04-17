@@ -1,4 +1,6 @@
 # HelloWorldGitHubTutorial
 
-Good Day Nerds!
-I am 28. I am not sure what happens here, but it will change... probably.
+Welcome Humans
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them superior to Earth tacos.
